@@ -18,3 +18,8 @@ figcaption{
 #head{
     background-image: url('/picturess/cats.webp');
 }
+label{
+    display: block;
+    margin-bottom: 2px;
+
+}
