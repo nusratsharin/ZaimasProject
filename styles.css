@@ -23,3 +23,14 @@ label{
     margin-bottom: 2px;
 
 }
+th , td{
+    border: 2px solid rgb(161, 217, 245);
+    padding: 5px 15px;
+}
+table{
+    border-collapse: collapse;
+}
+#chart{
+    background-color: rgb(138, 238, 238);
+    text-align: center;
+}
