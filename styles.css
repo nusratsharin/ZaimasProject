@@ -16,7 +16,8 @@ figcaption{
      text-align: center;
 }
 #head{
-    background-image: url(./picturess/logo1.jpg);
+    background-image: url(./picturess/cats.webp);
+    padding: 5px 5px;
 }
 label{
     display: block;
@@ -33,4 +34,9 @@ table{
 #chart{
     background-color: rgb(138, 238, 238);
     text-align: center;
+}
+.fig{
+display: block;
+width: 50%;
+margin: 0 auto;
 }
