@@ -16,7 +16,7 @@ figcaption{
      text-align: center;
 }
 #head{
-    background-image: url('/picturess/cats.webp');
+    background-image: url(../Zaimas/picturess/cats.webp);
 }
 label{
     display: block;
